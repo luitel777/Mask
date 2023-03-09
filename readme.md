@@ -1,5 +1,5 @@
 # MASK
-BIT II project. Refactored by myself 2023 March, mostly done by myself.
+BIT I project. Refactored by myself 2023 March, mostly done by myself.
 
 ## Cli based program for
 - hiding message inside png/jpg without damaging images
